@@ -24,10 +24,14 @@
 - **LinkedIn:** https://linkedin.com/in/sydney-coleen-borgonia-263369378/
 
 ## Installation Screenshots
-# Git Installation
+## Git Installation
 ![Git Installation](screenshots/Git.png)
-
-
+## GitHub Desktop
+![GitHub Desktop](screenshots/GitHubDesktop.png)
+## VirtualBox
+![VirtualBox](screenshots/VirtualBox.png)
+## Ubuntu ISO Download
+![Ubuntu ISO](screenshots/Ubuntu.png)
 
 ## Challenges Encountered
 - Configuring GitHub and understanding how repositories work.
