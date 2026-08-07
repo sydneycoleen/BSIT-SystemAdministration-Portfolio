@@ -23,6 +23,10 @@
 - **GitHub:** https://github.com/sydneycoleen
 - **LinkedIn:** https://linkedin.com/in/sydney-coleen-borgonia-263369378/
 
+## Installation Screenshots
+
+
+
 ## Challenges Encountered
 - Configuring GitHub and understanding how repositories work.
 - Learning the proper folder structure and Markdown formatting for documentation.
