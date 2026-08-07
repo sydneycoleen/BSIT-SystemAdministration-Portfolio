@@ -24,6 +24,8 @@
 - **LinkedIn:** https://linkedin.com/in/sydney-coleen-borgonia-263369378/
 
 ## Installation Screenshots
+# Git Installation
+![Git Installation](screenshots/Git.png)
 
 
 
