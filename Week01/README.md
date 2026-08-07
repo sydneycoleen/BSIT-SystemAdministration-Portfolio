@@ -4,7 +4,7 @@
 
 - **Name:** Sydney Coleen P. Borgonia
 - **Course:** Bachelor of Science in Information Technology
-- **Section:** BSIT-4C
+- **Section:** BSIT - 4C
 - **Date:** August 7, 2026
 
 ## Objectives
@@ -20,7 +20,6 @@
 ## Professional Accounts
 - **GitHub:** https://github.com/sydneycoleen
 - **LinkedIn:** https://linkedin.com/in/sydney-coleen-borgonia-263369378/
-- **Gmail:** borgonia.sydney@gmail.com
 
 ## Challenges Encountered
 - Configuring GitHub and understanding how repositories work.
@@ -28,7 +27,13 @@
 - Organizing screenshots and files inside the repository.
 
 ## Reflection
-During this activity, I learned how to prepare a professional working environment for my System Administration and Maintenance course. Installing the required software and creating professional accounts helped me understand the importance of using industry-standard tools such as Git and GitHub. I also became familiar with Markdown formatting and repository organization, which will be useful for documenting future laboratory activities and projects throughout the semester.
+During this activity, I learned how to prepare a professional working environment for my System Administration and Maintenance course. Setting up the necessary software applications, such as Visual Studio Code, Git, and GitHub, allowed me to understand the importance of using industry-standard tools that are commonly used by IT professionals and developers. The installation process also helped me become more familiar with configuring software correctly and ensuring that all tools work together properly for development and documentation purposes.
+
+Creating professional online accounts, especially GitHub, gave me a better understanding of how repositories are used to organize files, manage projects, and maintain version control. I realized that GitHub is not only a storage platform for source code but also a valuable tool for collaboration, portfolio building, and tracking project progress.
+
+Another important lesson I learned was the use of Markdown formatting for creating clean and organized documentation. By editing the README.md file, I practiced using headings, bullet lists, links, and image references, which improved my ability to present technical information in a professional manner.
+
+This activity helped me build a strong foundation for the succeeding laboratory exercises in this course. It improved my technical confidence, enhanced my organizational skills, and prepared me to document future activities systematically throughout the semester while developing a professional portfolio that can showcase my academic and technical growth.
 
 
 ## References
