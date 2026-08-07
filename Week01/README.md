@@ -13,9 +13,11 @@
 - Understand the importance of organizing files and repositories for semester-long activities.
 
 ## Software Installed
-- Visual Studio Code
 - Git 
 - GitHub Desktop
+- VirtualBox
+- Ubuntu ISO
+- Windows ISO
 
 ## Professional Accounts
 - **GitHub:** https://github.com/sydneycoleen
@@ -37,7 +39,10 @@ This activity helped me build a strong foundation for the succeeding laboratory 
 
 
 ## References
-- Git Official Website – https://git-scm.com/
-- GitHub Documentation – https://docs.github.com/
-- Visual Studio Code Documentation – https://code.visualstudio.com/docs
-- Markdown Guide – https://www.markdownguide.org/
+- [Git Official Website](https://git-scm.com/)
+- [GitHub Documentation](https://docs.github.com/)
+- [GitHub Desktop](https://desktop.github.com/)
+- [Oracle VM VirtualBox Downloads](https://www.virtualbox.org/wiki/Downloads)
+- [Ubuntu Desktop Download](https://ubuntu.com/download/desktop)
+- [Microsoft Evaluation Center – Windows 11 Enterprise](https://www.microsoft.com/evalcenter/)
+- [Markdown Guide](https://www.markdownguide.org/)
