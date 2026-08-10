@@ -32,6 +32,8 @@
 ![VirtualBox](screenshots/VirtualBox.png)
 ## Ubuntu ISO Download
 ![Ubuntu ISO](screenshots/Ubuntu.png)
+## Windows ISO Download
+![Windows ISO](screenshots/Windows.png)
 
 ## Challenges Encountered
 - Configuring GitHub and understanding how repositories work.
