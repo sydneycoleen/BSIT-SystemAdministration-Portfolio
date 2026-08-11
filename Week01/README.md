@@ -2,10 +2,12 @@
 
 ## Student Information
 
-- **Name:** Sydney Coleen P. Borgonia
-- **Course:** Bachelor of Science in Information Technology
-- **Section:** BSIT - 4C
-- **Date:** August 7, 2026
+| Student Information | Details |
+|---------------------|---------|
+| **Name** | Sydney Coleen P. Borgonia |
+| **Course** | Bachelor of Science in Information Technology |
+| **Section** | BSIT - 4C |
+| **Date** | August 7, 2026 |
 
 ## Objectives
 - Set up a professional development environment for System Administration and Maintenance.
