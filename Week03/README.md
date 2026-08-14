@@ -168,7 +168,7 @@ The BIOS vs UEFI comparison and the Ubuntu boot process flowchart further streng
 
 * **Installation Guide:** [InstallationGuide.pdf](InstallationGuide.pdf)
 * **Professional Installation Manual:** [ProfessionalInstallationManual.pdf](ProfessionalInstallationManual.pdf)
-* **BIOS vs UEFI Comparison:** [BIOS_vs_UEFI.pdf](BIOS_vs_UEFI_&_OS_Comparison_Report.pdf)
+* **BIOS vs UEFI Comparison:** [BIOS_vs_UEFI_&_OS_Comparison_Report.pdf](BIOS_vs_UEFI_&_OS_Comparison_Report.pdf)
 * **Boot Process Flowchart PDF:** [BootProcessFlowchart.pdf](BootProcessFlowchart.pdf)
 * **Boot Process Flowchart PNG:** [diagrams/BootProcessFlowchart.png](diagrams/BootProcessFlowchart.png)
 
