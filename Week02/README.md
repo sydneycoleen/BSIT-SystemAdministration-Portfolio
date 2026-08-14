@@ -98,6 +98,8 @@ The network topology was designed using **Draw.io (diagrams.net)** and includes 
 
 ![Enterprise Network Diagram](diagrams/network-topology.png)
 
+![Network Connection](images/cisco.png)
+
 ---
 
 ## System Administration Roles Covered
