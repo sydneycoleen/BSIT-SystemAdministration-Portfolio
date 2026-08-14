@@ -18,9 +18,9 @@ The deliverables from this project form part of my **professional GitHub portfol
 After completing this project, students should be able to:
 
 * Explain the purpose of an operating system in enterprise environments.
-* Differentiate **BIOS** and **UEFI** firmware.
-* Explain the stages of the **computer boot process**.
-* Compare **Ubuntu Server**, **Windows Server**, and **Rocky Linux**.
+* Differentiate BIOS and UEFI firmware.
+* Explain the stages of the computer boot process.
+* Compare Ubuntu Server, Windows Server, and Rocky Linux.
 
 ### Skills
 
@@ -32,16 +32,6 @@ Students should be able to:
 * Verify server functionality.
 * Document installation procedures.
 * Produce professional technical documentation.
-
-### Attitude
-
-Students are expected to demonstrate:
-
-* Professionalism
-* Organization
-* Technical communication
-* Attention to detail
-* Critical thinking
 
 ---
 
