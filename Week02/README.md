@@ -4,9 +4,7 @@
 
 Every successful IT infrastructure begins with proper planning. Before purchasing computers, installing servers, configuring networks, or deploying cloud services, a System Administrator must first understand the organization's business requirements and design an infrastructure that supports business operations.
 
-In this project, you will assume the role of a Junior System Administrator assigned to prepare the initial IT Infrastructure Plan of a newly established startup company.
-
-Your final output should resemble a professional document that could be submitted to an IT Manager or Company Executive.
+In this project, you will assume the role of a Junior System Administrator assigned to prepare the initial IT Infrastructure Plan of a newly established startup company. Your final output should resemble a professional document that could be submitted to an IT Manager or Company Executive.
 ---
 
 ## Learning Objectives
